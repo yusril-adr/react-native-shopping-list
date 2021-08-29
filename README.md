@@ -1,6 +1,6 @@
 # React Native Shopping List App
 
-> App for React Native crash course on YouTube
+> App for React Native crash course from YouTube
 
 ## Quick Start
 
